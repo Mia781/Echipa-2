@@ -12,7 +12,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 public class Tutorial extends OpMode {
     DcMotor Motor1;
     DcMotor Motor2;
-    DcMotor Misc:
+    DcMotor Misc;
 
     Servo Servo1;
     public void loop(){
